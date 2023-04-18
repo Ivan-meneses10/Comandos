@@ -1,0 +1,8 @@
+Comandos usados en la pratica "Auditar una red"
+
+* Sudo wifite -kill
+* nmap
+* nmap -v -sn 
+* nmap -v -A
+* FTP
+* Put 
